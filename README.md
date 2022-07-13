@@ -46,5 +46,3 @@ Here are some ideas to get you started:
 [weblog.sheensong.top](http://weblog.sheensong.top)(国外Github+CNAME解析)
 
 个人简历：[cv.sheensong.top](http://cv.sheensong.top)（已过时，暂未更新）
-
-备案号/许可证编号：[豫ICP备17001354号](https://beian.miit.gov.cn/)
