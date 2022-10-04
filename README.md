@@ -45,4 +45,4 @@ Here are some ideas to get you started:
 
 [weblog.sheensong.top](http://weblog.sheensong.top)(国外Github+CNAME解析)
 
-个人简历：[cv.sheensong.top](http://cv.sheensong.top)（已过时，暂未更新）
+个人简历：[cv.sheensong.top](http://cv.sheensong.top)（更新于2022.10.4）
