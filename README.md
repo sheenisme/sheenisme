@@ -1,7 +1,7 @@
 ### ✨ About Me ✨
 
 <!--
-**sheenisme/sheenisme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sheenisme/sheenisme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
 Here is **Guanghui Song(sheen, 宋广辉)**.
