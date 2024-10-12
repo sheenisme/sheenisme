@@ -10,8 +10,6 @@ I am a Ph.D. student at Hunan University under the supervision of  [Prof. Jie Zh
 
 If you are interested in any aspect of my work, I would love to chat and collaborate, please email me at - *sheensong@hnu.edu.cn*.
 
----
-
 ## News and Updates
 
 - **Sep 2024**: Resigned from Li Auto Inc. and entered [Hunan University](https://www-en.hnu.edu.cn) as a graduate student.
