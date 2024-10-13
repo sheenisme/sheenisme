@@ -18,4 +18,4 @@ If you are interested in any aspect of my work, I would love to chat and collabo
 - **Aug 2022**: Paper titled [Automatic Mixed Precision Optimization for Stencil Computation](https://jos.org.cn/jos/article/abstract/6757) accepted by Journal of Software.
 
 ### Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheenisme)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheenisme&count_private=true&show_icons=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
