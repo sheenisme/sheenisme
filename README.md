@@ -18,3 +18,5 @@ If you are interested in any aspect of my work, I would love to chat and collabo
 - **Nov 2023**: Paper entitled [A Holistic Approach to Automatic Mixed-Precision Code Generation and Tuning for Affine Programs](https://dl.acm.org/doi/10.1145/3627535.3638484) accepted by the PPoPP 2024 conference.
 - **Jul 2023**: Graduated from the Information Engineering University and joined [Li Auto Inc.](https://www.lixiang.com/about.html) as an R&D engineer.
 - **Aug 2022**: Paper titled [Automatic Mixed Precision Optimization for Stencil Computation](https://jos.org.cn/jos/article/abstract/6757) accepted by Journal of Software.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheenisme)](https://github.com/anuraghazra/github-readme-stats)
