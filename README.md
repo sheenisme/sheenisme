@@ -21,4 +21,4 @@ If you are interested in any aspect of my work, I would love to chat and collabo
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheenisme&count_private=true&show_icons=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Visitor Counts
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=sheenisme.visitor-badge)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=sheenisme.sheenisme)
