@@ -20,6 +20,6 @@ If you are interested in any aspect of my work, I would love to chat and collabo
 ### Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheenisme&count_private=true&show_icons=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheenisme&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheenisme&layout=compact&hide=javascript,tsql)
 ### Visitor Counts
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=sheenisme.sheenisme)
