@@ -2,7 +2,7 @@
 
 <!-- **sheenisme/sheenisme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here is **[Guanghui Song](https://sheensong.top/academic/)(宋广辉, Guanghui in Chinese means 'sheen' in English)**.
+Here is **[Guanghui Song](https://sheensong.top/academic/)(宋广辉, Guanghui in Chinese means sheen in English)**.
 
 I am a Ph.D. student at Hunan University under the supervision of  [Prof. Jie Zhao](https://yaozhujia.github.io). I worked at Li Auto Inc. in the position of AI compiler development engineer, from July 2023 to August 2024. And I received my Academic Master Degree in Computer Science and Technology from the State Key Laboratory of Mathematical Engineering and Advanced Computing, Information Engineering University. My research interests include advanced compilation techniques and high performance computing, with a special focus on polyhedral compilation, mixed-precision computational acceleration, high-level synthesis (HLS), and hardware acceleration. My research has been recognised by PPoPP, ASE, Journal of Software and others.
 
