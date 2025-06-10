@@ -9,6 +9,7 @@ I am a PhD student at Hunan University under the supervision of  [Prof. Jie Zhao
 If you are interested in any aspect of my work, I would love to chat and collaborate, please email me at - *sheensong@hnu.edu.cn*.
 
 ### News and Updates
+- **Jun 2025**: Attended the [PLDI 2025](https://pldi25.sigplan.org/) conference in South Korea, supported by the [PLMW @ PLDI 2025 scholarship](https://pldi25.sigplan.org/home/PLMW-pldi-2025).
 - **Apr 2025**: Moderated Session 6 (Student Talks and Technical Talk) at [EuroLLVM 2025](https://llvm.swoogo.com/2025eurollvm/home) in Berlin through on-site participation, supported by a student travel grant awarded by the LLVM Foundation.
 - **Dec 2024**: Ran for the president of the [CCF Hunan University Student Chapter](https://mp.weixin.qq.com/s/AFaJoxtjnA_FEd2XJSJbUA).
 - **Sep 2024**: Resigned from Li Auto Inc. and entered [Hunan University](https://www-en.hnu.edu.cn) as a graduate student.
