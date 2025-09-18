@@ -39,9 +39,9 @@ I'm always interested in collaboration and discussion about my research areas. F
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sheenisme&count_private=true&show_icons=true&theme=default&hide=contribs,prs)](https://github.com/sheenisme)
+[![GitHub Stats](https://github-readme-stats-sand-rho-23.vercel.app/api?username=sheenisme&count_private=true&show_icons=true&theme=default&hide=contribs,prs)](https://github.com/sheenisme)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sheenisme&layout=compact&size_weight=0.5&count_weight=0.5&exclude_repo=sheenisme,academic,blog,my-ayer-theme,sheenisme.github.io,origion-hexo-theme-ayer&hide=javascript,tsql,java,css&langs_count=6)](https://github.com/sheenisme)
+[![Top Languages](https://github-readme-stats-sand-rho-23.vercel.app/api/top-langs/?username=sheenisme&layout=compact&size_weight=0.5&count_weight=0.5&exclude_repo=sheenisme,academic,blog,my-ayer-theme,sheenisme.github.io,origion-hexo-theme-ayer&hide=javascript,tsql,java,css&langs_count=6)](https://github.com/sheenisme)
 
 </div>
 <div align="center">
