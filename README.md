@@ -25,6 +25,7 @@ I'm always interested in collaboration and discussion about my research areas. F
 
 ## 📰 News and Updates
 
+- **Sep 2025**: Began a research internship at the National University of Singapore (NUS) School of Computing as a visiting research intern
 - **Jun 2025**: Attended [PLDI 2025](https://pldi25.sigplan.org/) conference in South Korea, supported by the [PLMW @ PLDI 2025 scholarship](https://pldi25.sigplan.org/home/PLMW-pldi-2025)
 - **Apr 2025**: Moderated Session 6 (Student Talks and Technical Talk) at [EuroLLVM 2025](https://llvm.swoogo.com/2025eurollvm/home) in Berlin, supported by a student travel grant from the LLVM Foundation
 - **Dec 2024**: Ran for president of the [CCF Hunan University Student Chapter](https://mp.weixin.qq.com/s/AFaJoxtjnA_FEd2XJSJbUA)
