@@ -1,6 +1,6 @@
 # Guanghui Song (宋广辉)
 
-> *"Guanghui" in Chinese means "sheen" or "brilliance" in English*
+> *"Guanghui" in Chinese means "sheen" in English*
 
 [![GitHub followers](https://img.shields.io/github/followers/sheenisme?style=social)](https://github.com/sheenisme)
 [![Academic Website](https://img.shields.io/badge/Academic-Website-blue)](https://sheensong.top/academic/)
@@ -25,7 +25,7 @@ I'm always interested in collaboration and discussion about my research areas. F
 
 ## 📰 News and Updates
 
-- **Sep 2025**: Began a research internship at the National University of Singapore (NUS) School of Computing as a visiting research intern
+- **Sep 2025**: Began a research internship at the [National University of Singapore (NUS) School of Computing](https://www.comp.nus.edu.sg) as a visiting research intern
 - **Jun 2025**: Attended [PLDI 2025](https://pldi25.sigplan.org/) conference in South Korea, supported by the [PLMW @ PLDI 2025 scholarship](https://pldi25.sigplan.org/home/PLMW-pldi-2025)
 - **Apr 2025**: Moderated Session 6 (Student Talks and Technical Talk) at [EuroLLVM 2025](https://llvm.swoogo.com/2025eurollvm/home) in Berlin, supported by a student travel grant from the LLVM Foundation
 - **Dec 2024**: Ran for president of the [CCF Hunan University Student Chapter](https://mp.weixin.qq.com/s/AFaJoxtjnA_FEd2XJSJbUA)
