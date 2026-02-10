@@ -4,7 +4,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/sheenisme?style=social)](https://github.com/sheenisme)
 [![Academic Website](https://img.shields.io/badge/Academic-Website-blue)](https://sheensong.top/academic/)
-[![Email](https://img.shields.io/badge/Email-sheensong@hnu.edu.cn-red)](mailto:sheensong@hnu.edu.cn)
+[![Email](https://img.shields.io/badge/Email-sheensong@hnu.edu.cn-green)](mailto:sheensong@hnu.edu.cn)
 
 ## 👨‍🎓 About Me
 
