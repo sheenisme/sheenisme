@@ -8,15 +8,14 @@
 
 ## 👨‍🎓 About Me
 
-I am **[Guanghui Song](https://sheensong.top/academic/)**, a PhD student at [Hunan University](https://www-en.hnu.edu.cn) under the supervision of [Prof. Jie Zhao](https://yaozhujia.github.io). Previously, I worked as an AI Compiler Development Engineer at [Li Auto Inc.](https://www.lixiang.com/about.html) (2023-2024) and received my Master's degree from Information Engineering University.
+I am **[Guanghui Song](https://sheensong.top/academic/)**, a PhD student at [Hunan University](https://www-en.hnu.edu.cn) under the supervision of [Prof. Jie Zhao](https://yaozhujia.github.io). I completed my master's degree at Information Engineering University and then worked as an AI Compiler R&D Engineer at [Li Auto Inc.](https://www.lixiang.com/about.html), before starting my PhD.
 
 ### 🔬 Research Interests
-- **Advanced Compilation Techniques**: Polyhedral compilation and optimization
-- **High Performance Computing**: Mixed-precision computational acceleration
-- **Hardware Acceleration**: High-level synthesis (HLS) and FPGA optimization
-- **Programming Languages**: Compiler design and optimization techniques
+- **Advanced Compilation Techniques**: Polyhedral analysis and scheduling, affine loop optimizations, and dataflow-oriented mapping from loop nests and graphs to efficient forms — often through LLVM/MLIR-based passes and reusable compiler pipelines.
+- **Hardware Acceleration**: Hardware-aware compilation and mapping for NPUs and spatial and reconfigurable architectures (CGRA, FPGA), and HLS-oriented flows—covering operator lowering, pipelining, and resource utilization from IR down to accelerator execution.
+- **High Performance Computing**: Mixed-precision code generation and autotuning for numerical kernels, lightweight analytical performance models, and scalable execution strategies on parallel and specialized hardware.
 
-My research has been published in top-tier venues including **PPoPP**, **ASE**, and **Journal of Software**.
+My research has appeared in venues such as **ISCA**, **PPoPP**, **TACO**, **ASE**, and the **Journal of Software**.
 
 ### 📫 Contact
 I'm always interested in collaboration and discussion about my research areas. Feel free to reach out:
